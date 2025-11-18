@@ -12,10 +12,15 @@ Clean output files for manual testing
 Fast parallel execution using xargs
 
 Requirements
-gau
-uro
-httpx
-nuclei
+
+
+1)gau
+2)uro
+3)httpx
+4)nuclei
+
+
+
 
 Installation
 git clone https://github.com/aryahmpillai/HUNTER.git
