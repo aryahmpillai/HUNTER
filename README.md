@@ -26,3 +26,10 @@ Installation
 git clone https://github.com/aryahmpillai/HUNTER.git
 cd HUNTER
 chmod +x hunter.sh
+
+
+Usage
+./hunter.sh example.com
+./hunter.sh domain.txt
+
+
