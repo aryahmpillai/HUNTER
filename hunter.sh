@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ============================================================
-#   FUZZER – Created by Aryampillai
+#   HUNTER – Created by Aryampillai
 #   A lightweight recon + parameters + nuclei scanning tool
 # ============================================================
 
